@@ -6,5 +6,5 @@ public interface ProductRepositoryLayout {
 
 	String pathOf(ProductPackage productPackage);
 
-	String pathOfMetadata();
+	String pathOfMetadata(ProductPackage productPackage);
 }
