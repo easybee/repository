@@ -1,4 +1,4 @@
-package de.nullnull;
+package de.nullnull.product;
 
 public interface ProductRepositoryLayout {
 
